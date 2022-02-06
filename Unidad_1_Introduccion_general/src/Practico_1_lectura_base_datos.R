@@ -1,8 +1,7 @@
-################################################################################
-#
-#                Practico 1, cargando la primera base de datos
-#
-################################################################################
+
+
+######                Practico 1, cargando la primera base de datos     ########  
+
 
 getwd() # para saber en que directorio estas trabajando. 
 
