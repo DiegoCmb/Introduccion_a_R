@@ -1,0 +1,17 @@
+En este directorio hay 5 subdirectorios
+
+1) database: base de datos iris.csv e iris_first_6_obs.csv que son utilizados en el practico 1
+
+2) literatura_soporte: papers de apoyo sobre reproducibilidad
+
+3) presentaciones: archivos .odt (la version .ppt de libre office) y sus respectivos .pdf de las presentaciones de la unidad 1
+
+4) src: directorio con scripts con el codigo necesario para la unidad 1
+
+5) .Rproj.user 
+
+
+File Unidad_1.Rproj 
+.Rhistory
+
+
